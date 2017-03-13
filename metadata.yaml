@@ -1,10 +1,8 @@
 _repo: China-and-the-Manchus_2156
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 2156/2156-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 2156-h/images/cover.jpg
 creator:
   author:
     agent_name: Giles, Herbert Allen
@@ -17,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/814
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Giles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2156#China-and-the-Manchus
 gutenberg_issued: '2006-03-26'
 gutenberg_type: Text
 identifiers:
